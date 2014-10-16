@@ -1,6 +1,6 @@
 {
   "name": "local-pen",
-  "description": "boilerplate for project planning to put on codepen but develop locally, including my workflow defaults, less, haml, jquery, underscorejs, velocityjs and velocity ui",
+  "description": "Boilerplate for project with the intention to be put on codepen but developed locally. Includes my workflow defaults, less, haml, jquery, underscorejs, velocityjs and velocity ui",
   "version": "0.0.0",
   "engines": {
     "node": ">= 0.8.0"
