@@ -4,3 +4,5 @@ Requires you to have [Ruby](http://www.ruby-lang.org/en/downloads/) and [Haml](h
 
 run `sudo npm install` from repo directory
 
+run `grunt dev`
+
