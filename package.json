@@ -1,0 +1,28 @@
+{
+  "name": "local-pen",
+  "description": "boilerplate for project planning to put on codepen but develop locally, including my workflow defaults, less, haml, jquery, underscorejs, velocityjs and velocity ui",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": {
+    "name": "Danny Swaby",
+    "email": "danny@swa.by",
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mit-license.org"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-haml": "^0.2.0",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*"
+  }
+}

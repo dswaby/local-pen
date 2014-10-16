@@ -1,0 +1,1 @@
+Boilerplate for project with the intention to be put on codepen but developed locally. Includes my workflow defaults, less, haml, jquery, underscorejs, velocityjs and velocity ui
